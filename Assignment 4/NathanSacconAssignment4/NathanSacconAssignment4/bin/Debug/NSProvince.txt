@@ -1,0 +1,4 @@
+ON::Ontario::CA::HST::0.14::True
+AB::Albert::CA::NNN::0.4::True
+BC::British Columbia::CA::PST::0.26::False
+PE::Prince Edward Island::CA::PST::0.5::True

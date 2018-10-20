@@ -1,0 +1,10 @@
+C:\Users\natha\Documents\School\Winter 2018\PROG1815 - Programming Concepts II\Assignments\Assignment 2\NSMember\NSMember\bin\Debug\NSMember.exe.config
+C:\Users\natha\Documents\School\Winter 2018\PROG1815 - Programming Concepts II\Assignments\Assignment 2\NSMember\NSMember\bin\Debug\NSMember.exe
+C:\Users\natha\Documents\School\Winter 2018\PROG1815 - Programming Concepts II\Assignments\Assignment 2\NSMember\NSMember\bin\Debug\NSMember.pdb
+C:\Users\natha\Documents\School\Winter 2018\PROG1815 - Programming Concepts II\Assignments\Assignment 2\NSMember\NSMember\obj\Debug\NSMember.csprojResolveAssemblyReference.cache
+C:\Users\natha\Documents\School\Winter 2018\PROG1815 - Programming Concepts II\Assignments\Assignment 2\NSMember\NSMember\obj\Debug\NSMember.NSMember.resources
+C:\Users\natha\Documents\School\Winter 2018\PROG1815 - Programming Concepts II\Assignments\Assignment 2\NSMember\NSMember\obj\Debug\NSMember.Properties.Resources.resources
+C:\Users\natha\Documents\School\Winter 2018\PROG1815 - Programming Concepts II\Assignments\Assignment 2\NSMember\NSMember\obj\Debug\NSMember.csproj.GenerateResource.Cache
+C:\Users\natha\Documents\School\Winter 2018\PROG1815 - Programming Concepts II\Assignments\Assignment 2\NSMember\NSMember\obj\Debug\NSMember.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\School\Winter 2018\PROG1815 - Programming Concepts II\Assignments\Assignment 2\NSMember\NSMember\obj\Debug\NSMember.exe
+C:\Users\natha\Documents\School\Winter 2018\PROG1815 - Programming Concepts II\Assignments\Assignment 2\NSMember\NSMember\obj\Debug\NSMember.pdb
